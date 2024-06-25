@@ -45,65 +45,14 @@ header {
 .header-right ul li a:hover {
     text-decoration: underline;
 }
-
 main {
     padding: 2rem;
     max-width: 800px;
     margin: auto;
 }
 
-.about-me {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 4rem;
-}
-
-.about-content {
-    max-width: 60%;
-}
-
-.about-content h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
-
-.about-content p {
-    font-size: 1.2rem;
-    margin-bottom: 1.5rem;
-}
-
-.about-content .btn {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    border: 1px solid #fff;
-    border-radius: 5px;
-    text-decoration: none;
-    color: #fff;
-    transition: background-color 0.3s;
-}
-
-.about-content .btn:hover {
-    background-color: #444;
-}
-
-.about-image img {
-    max-width: 300px;
-    border-radius: 50%;
-}
-
-.interests {
-    text-align: left;
-    margin-top: 4rem;
-}
-
-.interests h2 {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-}
-
 .intro {
-    text-align: justify;
+    text-align: center;
     margin-bottom: 4rem;
 }
 
