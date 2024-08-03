@@ -181,6 +181,10 @@ main {
     margin-bottom: 1.5rem;
 }
 
+.project-description a {
+    color: #fff;
+}
+
 .project-image img {
     max-width: 500px;
     border-radius: 5px;
@@ -203,7 +207,7 @@ main {
 
 .tags span {
     background: #444;
-    padding: 0.5rem 1rem;
+    padding: .5rem 1rem;
     border-radius: 5px;
 }
 
